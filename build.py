@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# https://github.com/EONRaider/Packet-Sniffer
+# https://github.com/sweety519/Packet-Sniffer
 
 __author__ = "EONRaider @ keybase.io/eonraider"
 
