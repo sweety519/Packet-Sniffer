@@ -35,7 +35,7 @@ case the `build.py` file can be used to compile your own binary.
 Building the binary requires the `PyInstaller` package. You just need to install all dependencies and build. 
 Dependency management works with both [Poetry](https://python-poetry.org/) (recommended) and [Virtualenv](https://virtualenv.pypa.io/en/latest/). 
 ```shell
-user@host:~$ git clone https://github.com/EONRaider/Packet-Sniffer.git
+user@host:~$ git clone https://github.com/sweety519/Packet-Sniffer.git
 user@host:~$ cd Packet-Sniffer
 user@host:~/Packet-Sniffer$ poetry install <--or--> pip install -r requirements.txt
 user@host:~/Packet-Sniffer$ python3 build.py
