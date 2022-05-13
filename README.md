@@ -46,7 +46,7 @@ It's also possible to run the application *without any third-party dependencies 
 manipulation of binaries.* Simply clone this repository with `git clone` and execute 
 the `packet_sniffer.py` file by passing the required `PYTHONPATH` to `sudo`.
 ```shell
-user@host:~$ git clone https://github.com/EONRaider/Packet-Sniffer.git
+user@host:~$ git clone https://github.com/sweety519/Packet-Sniffer.git
 user@host:~$ cd Packet-Sniffer
 user@host:~/Packet-Sniffer$ sudo --preserve-env PYTHONPATH=$(pwd) python3 src/packet_sniffer.py
 ```
