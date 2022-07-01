@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # https://github.com/sweety519/Packet-Sniffer
 
-__author__ = "EONRaider @ keybase.io/eonraider"
-
 import PyInstaller.__main__ as pyinstaller
 
 
